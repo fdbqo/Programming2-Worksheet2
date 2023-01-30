@@ -27,6 +27,7 @@ namespace Q2
             // user input
 
             bool result = IsSorted(array);
+            // gets result
 
             Console.WriteLine($"\nArray is sorted? : {result}");
         } 
